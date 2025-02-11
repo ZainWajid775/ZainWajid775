@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <div align='center'> 💫 About Me: </div> 
 DATA SCIENCE STUDENT IN GIKI
 
 
