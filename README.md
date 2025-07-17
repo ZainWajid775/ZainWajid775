@@ -1,4 +1,4 @@
-<div>
+<div style="width: 200px; height: 100px;">
 # 💫 About Me:
 A passionate Data Scientist, Game Developer and Video Editor<br> 
 </div>
