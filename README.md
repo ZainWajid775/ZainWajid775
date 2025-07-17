@@ -1,8 +1,7 @@
-<div style="width: 200px; height: 100px;">
-# 💫 About Me:
-A passionate Data Scientist, Game Developer and Video Editor<br> 
+<div style="width: 200px; height: 100px; display: flex; justify-content: center; align-items: center; text-align: center; flex-direction: column;">
+  <h2>💫 About Me:</h2>
+  <p>A passionate Data Scientist, Game Developer and Video Editor</p>
 </div>
-
 
 
 ## 🌐 Socials:
